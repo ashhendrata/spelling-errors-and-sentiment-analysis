@@ -3,9 +3,9 @@ The data files and processed data were to large to push. However, the following 
 
 ## Step 1: Download the Required Datasets
 
-1. ["Industrial and Scientific" & "Clothing Shoes and Jewelry" reviews](https://nijianmo.github.io/amazon/index.html)
+1. [Reviews from the following sections: "Industrial and Scientific" & "Clothing Shoes and Jewelry"](https://nijianmo.github.io/amazon/index.html)
    
-2. [Movie revies](https://ai.stanford.edu/~amaas/data/sentiment/)
+2. [Movie reviews](https://ai.stanford.edu/~amaas/data/sentiment/)
 
 ## Step 2: Preprocess the Reviews
 
